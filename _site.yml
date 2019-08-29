@@ -9,3 +9,10 @@ navbar:
     - text: "About"
       icon: fa-newspaper-o
       href: about.html
+    - text: "Prueba"
+      menu:
+        - text: "Prueba1"
+          href: prueba1.html
+        - text: "---"
+        - text: "Prueba2"
+          href: prueba2.html
